@@ -1,3 +1,8 @@
+# ════════════════════════════════════════════════════════════════
+# COPY THIS FILE'S CONTENTS TO: .github/workflows/deploy.yml
+# (GitHub requires the `workflow` scope to create workflow files via API,
+#  so this needs to be done manually once via the GitHub web UI)
+# ════════════════════════════════════════════════════════════════
 name: Deploy to telehosting
 
 on:
